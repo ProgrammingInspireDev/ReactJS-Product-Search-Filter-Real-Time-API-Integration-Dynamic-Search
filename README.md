@@ -1,5 +1,9 @@
 # ReactJS Product Search Filter – Real-Time API Integration & Dynamic Search
 
+
+![image](https://github.com/user-attachments/assets/42b2b89c-8975-4cdd-86d9-dcf55df5c332)
+
+
 ## Overview
 This project demonstrates how to build a dynamic product search filter using ReactJS. It fetches product data from a live API and displays it in a responsive grid layout. The search bar allows real-time filtering of products as you type.
 
