@@ -19,11 +19,11 @@ This project demonstrates how to build a dynamic product search filter using Rea
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ProgrammingInspireDev/ReactJS-Product-Search-Filter-Real-Time-API-Integration-Dynamic-Search.git
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd ReactJS Product Search Filter – Real-Time API Integration & Dynamic Search
    
 3. Install the dependencies:
    ```bash
